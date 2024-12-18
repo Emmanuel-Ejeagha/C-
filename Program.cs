@@ -101,4 +101,23 @@ Console.WriteLine(myName);
 char ch = 'a';
 ch += 'c';
 Console.WriteLine(ch);
+
+int i = 0;
+Console.WriteLine(++i);
+Console.WriteLine(i);
+
+// Reminder
+int firstNum = 10;
+int secondNum = 3;
+Console.WriteLine(firstNum / secondNum);
+Console.WriteLine(firstNum % secondNum);
+
+var username = "Emmanuel";
+var worth = 4000D;
+var funds = 200.34;
+
+System.Console.WriteLine(username);
+System.Console.WriteLine(worth);
+System.Console.WriteLine(funds);
+
 // Console.ReadLine();
