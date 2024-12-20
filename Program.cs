@@ -149,19 +149,20 @@ Console.WriteLine("Your name is " + uName + " you are " + uAge + " years old");
 System.Console.WriteLine(   );
 Console.WriteLine("Your name is {0} you are {1} years old", uName, uAge );
 
-// // if statement
-// if (uAge >= 18 && uAge <= 120)
-// {
-//     Console.WriteLine("You are elegible to vote");
-// } 
-// else if (uAge < 18 && uAge > 0)
-// {
-//     Console.WriteLine("You are not elegible to vote!");
-// }
-// else if (uAge > 120 || uAge <= 0)
-// {
-//     Console.WriteLine("Invalid age!");
-// }
+// if statement
+if (uAge >= 18 && uAge <= 120)
+{
+    Console.WriteLine("You are elegible to vote");
+} 
+else if (uAge < 18 && uAge > 0)
+{
+    Console.WriteLine("You are not elegible to vote!");
+}
+else if (uAge > 120 || uAge <= 0)
+{
+    Console.WriteLine("Invalid age!");
+}
+
 
 if (uAge < 0 || uAge > 150)
 {
@@ -197,5 +198,30 @@ if (ans == actualAns)
 else if (ans != actualAns)
 {
     Console.WriteLine("Close but it was wrong!");
+}
+
+// Switch statement
+Console.Write("Enter a day of the week");
+int day = Convert.ToInt32(Console.ReadLine());
+
+switch (day)
+{
+    case 1: Console.WriteLine("Monday"); 
+        break;
+    case 2: Console.WriteLine("Tuesday");
+        break;
+    case 3: Console.WriteLine("Wednesday");
+        break;
+    case 4: Console.WriteLine("Thursday");
+        break;
+    case 5: Console.WriteLine("Friday");
+        break;
+    case 6: Console.WriteLine("Saturday");
+        break;
+    case 7: Console.WriteLine("Sunday");
+        break;
+
+    default: Console.WriteLine("Invalid number! Enter a value between 1 and 7");
+        break;
 }
 // Console.ReadLine();
