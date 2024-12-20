@@ -1,9 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Diagnostics;
-using System;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 
 Console.WriteLine("Hello, World!");
@@ -201,7 +197,7 @@ else if (ans != actualAns)
 }
 
 // Switch statement
-Console.Write("Enter a day of the week");
+Console.Write("Enter a day of the week: ");
 int day = Convert.ToInt32(Console.ReadLine());
 
 switch (day)
@@ -222,6 +218,36 @@ switch (day)
         break;
 
     default: Console.WriteLine("Invalid number! Enter a value between 1 and 7");
-        break;
+        break; 
 }
-// Console.ReadLine();
+
+// FOR LOOP
+for (int a = 0; a < 10; a++)
+{
+    Console.WriteLine(a);
+}
+
+for (int w = 1; w < 11; w+=2)
+{
+    Console.WriteLine(w);
+}
+
+// seconnd eg
+System.Console.WriteLine("What do you want to repeat?: ");
+string msg = Console.ReadLine();
+
+System.Console.WriteLine("How many times do you want to say hello?");
+int counter = Convert.ToInt32(Console.ReadLine());
+
+if (counter <= 0)
+{
+    Console.WriteLine(" Sorry, please enter a value above 0");
+}
+else 
+{
+    for (int b = 0; b <= counter; b++)
+    {
+        System.Console.WriteLine(msg);
+    }
+}
+// Console.ReadLine()
