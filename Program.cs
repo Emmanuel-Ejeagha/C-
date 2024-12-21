@@ -250,4 +250,12 @@ else
         System.Console.WriteLine(msg);
     }
 }
+
+// While Loop
+int ab = 0;
+while (ab < 10)
+{
+    System.Console.WriteLine(ab);
+}
+
 // Console.ReadLine()
