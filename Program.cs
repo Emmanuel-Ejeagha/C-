@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System.Diagnostics;
+using System.Formats.Asn1;
 
 
 Console.WriteLine("Hello, World!");
@@ -256,6 +257,41 @@ int ab = 0;
 while (ab < 10)
 {
     System.Console.WriteLine(ab);
+    ab++;
 }
 
+Console.Write("Enter the first number: ");
+int numbA = Convert.ToInt32(Console.ReadLine());
+
+Console.Write("Enter the second number: ");
+int numbB = Convert.ToInt32(Console.ReadLine());
+
+int Ans = numbA * numbB;
+int actualANS = 0;
+
+Console.WriteLine("What's the value of "+ numbA + " x " + numbB + "?");
+System.Console.WriteLine();
+
+while (Ans != actualANS)
+{
+    Console.Write("Enter your answer: ");
+    actualANS = Convert.ToInt32(Console.ReadLine());
+
+    if (Ans != actualANS)
+    {
+        Console.WriteLine("Close but it was wrong!!");
+        Console.WriteLine();
+    }
+}
+Console.WriteLine("Well done!");
+
+
+// int answer = numbA * numbB;
+// do
+// {
+//     Console.WriteLine("Enter your answer: ");
+//     int myAns = Convert.ToInt32(Console.ReadLine());
+
+//     if 
+// }
 // Console.ReadLine()
