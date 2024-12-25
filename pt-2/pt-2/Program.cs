@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // Console.WriteLine("Hello, World!");
 using System.Formats.Asn1;
+using System.Globalization;
 
 Console.Write("Enter the first number: ");
 int numA = Convert.ToInt32(Console.ReadLine());
@@ -50,4 +51,6 @@ Console.WriteLine(string.Format("${0:0.00}", money1));
 Console.WriteLine(string.Format("£{0:0.00}", money2));
 Console.WriteLine(money1.ToString("C"));
 Console.WriteLine(money2.ToString("C"));
+
+Console.WriteLine(money2.ToString("C", CultureInfo.CurrentCulture));
 
