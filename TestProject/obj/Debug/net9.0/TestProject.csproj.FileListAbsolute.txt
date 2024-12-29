@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/TestProject/bin/Debug/net9.0/TestProject
+/home/emma/Desktop/C-Sharp/TestProject/bin/Debug/net9.0/TestProject.deps.json
+/home/emma/Desktop/C-Sharp/TestProject/bin/Debug/net9.0/TestProject.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/TestProject/bin/Debug/net9.0/TestProject.dll
+/home/emma/Desktop/C-Sharp/TestProject/bin/Debug/net9.0/TestProject.pdb
+/home/emma/Desktop/C-Sharp/TestProject/obj/Debug/net9.0/TestProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/TestProject/obj/Debug/net9.0/TestProject.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/TestProject/obj/Debug/net9.0/TestProject.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/TestProject/obj/Debug/net9.0/TestProject.sourcelink.json
+/home/emma/Desktop/C-Sharp/TestProject/obj/Debug/net9.0/TestProject.dll
+/home/emma/Desktop/C-Sharp/TestProject/obj/Debug/net9.0/refint/TestProject.dll
+/home/emma/Desktop/C-Sharp/TestProject/obj/Debug/net9.0/TestProject.pdb
+/home/emma/Desktop/C-Sharp/TestProject/obj/Debug/net9.0/TestProject.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/TestProject/obj/Debug/net9.0/ref/TestProject.dll
