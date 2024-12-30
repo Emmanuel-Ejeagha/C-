@@ -89,3 +89,46 @@ else
 {
     Console.WriteLine("Sorry, you lose.");
 }
+
+
+// if, else, else if stateents
+Random dice3 = new Random();
+
+int roll11 = dice3.Next(1, 7);
+int roll22 = dice3.Next(1, 7);
+int roll33 = dice3.Next(1, 7);
+
+int total01 = roll11 + roll22 + roll33;
+
+Console.WriteLine($"Dice roll: {roll11} + {roll22} + {roll33} = {total}");
+
+if ((roll11 == roll22) || (roll22 == roll33) || (roll11 == roll33))
+{
+    if ((roll11 == roll22) && (roll22 == roll33))
+    {
+        Console.WriteLine("You rolled triples!  +6 bonus to total!");
+        total01 += 6;
+    }
+    else
+    {
+        Console.WriteLine("You rolled doubles! +2 bonus to total!");
+        total01 += 2;
+    }
+    Console.WriteLine($"Your total including the bonus: {total01}");
+}
+if (total01 >= 16)
+{
+    Console.WriteLine("You win a new car!");
+}
+else if (total01 >= 10)
+{
+    Console.WriteLine("You win a new laptop!");
+}
+else if (total01 == 7)
+{
+    Console.WriteLine("You win a trip for two!");
+}
+else
+{
+    Console.WriteLine("You win a kitten!");
+}
