@@ -27,10 +27,23 @@ foreach (string name in names)
 
 int[] inventory = {200, 800, 459, 764};
 int sum = 0;
+int bin = 0;
 
 foreach (int items in inventory)
 {
-    Console.WriteLine($"The list of inventory: {items}");
     sum += items;
+    bin++;
+    Console.WriteLine($"Bin {bin} = {items} items (Running total: {sum})");
 }
-Console.WriteLine($"\nThe sum of inventory is {sum}");
+Console.WriteLine($"\nWe have {sum} items in inventory.");
+
+// StartWith
+string[] orderIDs = {"B123", "C234", "A345", "C15", "B177", "G3003", "C235", "B179"};
+
+foreach (string item in orderIDs)
+{
+    if (item.StartsWith("B"))
+    {
+        Console.WriteLine(item);
+    }
+}
