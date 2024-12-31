@@ -47,3 +47,28 @@ foreach (string item in orderIDs)
         Console.WriteLine(item);
     }
 }
+
+/*
+    This code reverses a message, counts the numbber of times
+    a particular character appears, then prints the results
+    to the console window.
+*/
+
+string originalMessage = "The quick brown fox jumps over the lazy dog.";
+
+char[] message = originalMessage.ToCharArray();
+Array.Reverse(message);
+
+int letterCount = 0;
+
+foreach (char letter in message)
+{
+    if (letter == 'o')
+    {
+        letterCount++;
+    }
+}
+
+string newMessage = new string(message);
+
+Console.WriteLine($"'o' appears {letterCount} times");
