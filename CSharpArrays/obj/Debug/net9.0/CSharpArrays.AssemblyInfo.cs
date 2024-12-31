@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CSharpArrays")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c47ee7142bcacc6a85953b80e0a1277948c157b2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6f9ec1e0115b70a990d193814f689b0d6a0c3013")]
 [assembly: System.Reflection.AssemblyProductAttribute("CSharpArrays")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CSharpArrays")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
