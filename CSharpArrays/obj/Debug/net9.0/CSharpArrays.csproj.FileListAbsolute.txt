@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/CSharpArrays/bin/Debug/net9.0/CSharpArrays
+/home/emma/Desktop/C-Sharp/CSharpArrays/bin/Debug/net9.0/CSharpArrays.deps.json
+/home/emma/Desktop/C-Sharp/CSharpArrays/bin/Debug/net9.0/CSharpArrays.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/CSharpArrays/bin/Debug/net9.0/CSharpArrays.dll
+/home/emma/Desktop/C-Sharp/CSharpArrays/bin/Debug/net9.0/CSharpArrays.pdb
+/home/emma/Desktop/C-Sharp/CSharpArrays/obj/Debug/net9.0/CSharpArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/CSharpArrays/obj/Debug/net9.0/CSharpArrays.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/CSharpArrays/obj/Debug/net9.0/CSharpArrays.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/CSharpArrays/obj/Debug/net9.0/CSharpArrays.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/CSharpArrays/obj/Debug/net9.0/CSharpArrays.sourcelink.json
+/home/emma/Desktop/C-Sharp/CSharpArrays/obj/Debug/net9.0/CSharpArrays.dll
+/home/emma/Desktop/C-Sharp/CSharpArrays/obj/Debug/net9.0/refint/CSharpArrays.dll
+/home/emma/Desktop/C-Sharp/CSharpArrays/obj/Debug/net9.0/CSharpArrays.pdb
+/home/emma/Desktop/C-Sharp/CSharpArrays/obj/Debug/net9.0/CSharpArrays.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/CSharpArrays/obj/Debug/net9.0/ref/CSharpArrays.dll
