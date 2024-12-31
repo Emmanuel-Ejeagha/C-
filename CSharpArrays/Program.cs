@@ -24,3 +24,13 @@ foreach (string name in names)
 {
     Console.WriteLine("My name is " + name);
 }
+
+int[] inventory = {200, 800, 459, 764};
+int sum = 0;
+
+foreach (int items in inventory)
+{
+    Console.WriteLine($"The list of inventory: {items}");
+    sum += items;
+}
+Console.WriteLine($"\nThe sum of inventory is {sum}");
