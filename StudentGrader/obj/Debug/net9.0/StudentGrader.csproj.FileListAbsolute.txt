@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/StudentGrader/bin/Debug/net9.0/StudentGrader
+/home/emma/Desktop/C-Sharp/StudentGrader/bin/Debug/net9.0/StudentGrader.deps.json
+/home/emma/Desktop/C-Sharp/StudentGrader/bin/Debug/net9.0/StudentGrader.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/StudentGrader/bin/Debug/net9.0/StudentGrader.dll
+/home/emma/Desktop/C-Sharp/StudentGrader/bin/Debug/net9.0/StudentGrader.pdb
+/home/emma/Desktop/C-Sharp/StudentGrader/obj/Debug/net9.0/StudentGrader.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/StudentGrader/obj/Debug/net9.0/StudentGrader.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/StudentGrader/obj/Debug/net9.0/StudentGrader.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/StudentGrader/obj/Debug/net9.0/StudentGrader.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/StudentGrader/obj/Debug/net9.0/StudentGrader.sourcelink.json
+/home/emma/Desktop/C-Sharp/StudentGrader/obj/Debug/net9.0/StudentGrader.dll
+/home/emma/Desktop/C-Sharp/StudentGrader/obj/Debug/net9.0/refint/StudentGrader.dll
+/home/emma/Desktop/C-Sharp/StudentGrader/obj/Debug/net9.0/StudentGrader.pdb
+/home/emma/Desktop/C-Sharp/StudentGrader/obj/Debug/net9.0/StudentGrader.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/StudentGrader/obj/Debug/net9.0/ref/StudentGrader.dll
