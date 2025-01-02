@@ -172,3 +172,4 @@ Console.WriteLine($"\nFinal GPA:\t\t\t {leadingDigit}.{firstDigit}{secondDigit}"
 Random dice = new Random();
 int roll = dice.Next(1, 7);
 Console.WriteLine(roll);
+
