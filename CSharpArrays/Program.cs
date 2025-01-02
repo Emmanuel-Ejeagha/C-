@@ -72,3 +72,4 @@ foreach (char letter in message)
 string newMessage = new string(message);
 
 Console.WriteLine($"'o' appears {letterCount} times");
+
