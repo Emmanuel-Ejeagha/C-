@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/practicals/bin/Debug/net9.0/practicals
+/home/emma/Desktop/C-Sharp/practicals/bin/Debug/net9.0/practicals.deps.json
+/home/emma/Desktop/C-Sharp/practicals/bin/Debug/net9.0/practicals.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/practicals/bin/Debug/net9.0/practicals.dll
+/home/emma/Desktop/C-Sharp/practicals/bin/Debug/net9.0/practicals.pdb
+/home/emma/Desktop/C-Sharp/practicals/obj/Debug/net9.0/practicals.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/practicals/obj/Debug/net9.0/practicals.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/practicals/obj/Debug/net9.0/practicals.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/practicals/obj/Debug/net9.0/practicals.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/practicals/obj/Debug/net9.0/practicals.sourcelink.json
+/home/emma/Desktop/C-Sharp/practicals/obj/Debug/net9.0/practicals.dll
+/home/emma/Desktop/C-Sharp/practicals/obj/Debug/net9.0/refint/practicals.dll
+/home/emma/Desktop/C-Sharp/practicals/obj/Debug/net9.0/practicals.pdb
+/home/emma/Desktop/C-Sharp/practicals/obj/Debug/net9.0/practicals.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/practicals/obj/Debug/net9.0/ref/practicals.dll
