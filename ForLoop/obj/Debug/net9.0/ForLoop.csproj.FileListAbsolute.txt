@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/ForLoop/bin/Debug/net9.0/ForLoop
+/home/emma/Desktop/C-Sharp/ForLoop/bin/Debug/net9.0/ForLoop.deps.json
+/home/emma/Desktop/C-Sharp/ForLoop/bin/Debug/net9.0/ForLoop.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/ForLoop/bin/Debug/net9.0/ForLoop.dll
+/home/emma/Desktop/C-Sharp/ForLoop/bin/Debug/net9.0/ForLoop.pdb
+/home/emma/Desktop/C-Sharp/ForLoop/obj/Debug/net9.0/ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/ForLoop/obj/Debug/net9.0/ForLoop.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/ForLoop/obj/Debug/net9.0/ForLoop.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/ForLoop/obj/Debug/net9.0/ForLoop.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/ForLoop/obj/Debug/net9.0/ForLoop.sourcelink.json
+/home/emma/Desktop/C-Sharp/ForLoop/obj/Debug/net9.0/ForLoop.dll
+/home/emma/Desktop/C-Sharp/ForLoop/obj/Debug/net9.0/refint/ForLoop.dll
+/home/emma/Desktop/C-Sharp/ForLoop/obj/Debug/net9.0/ForLoop.pdb
+/home/emma/Desktop/C-Sharp/ForLoop/obj/Debug/net9.0/ForLoop.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/ForLoop/obj/Debug/net9.0/ref/ForLoop.dll
