@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/SwitchStatement/bin/Debug/net9.0/SwitchStatement
+/home/emma/Desktop/C-Sharp/SwitchStatement/bin/Debug/net9.0/SwitchStatement.deps.json
+/home/emma/Desktop/C-Sharp/SwitchStatement/bin/Debug/net9.0/SwitchStatement.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/SwitchStatement/bin/Debug/net9.0/SwitchStatement.dll
+/home/emma/Desktop/C-Sharp/SwitchStatement/bin/Debug/net9.0/SwitchStatement.pdb
+/home/emma/Desktop/C-Sharp/SwitchStatement/obj/Debug/net9.0/SwitchStatement.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/SwitchStatement/obj/Debug/net9.0/SwitchStatement.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/SwitchStatement/obj/Debug/net9.0/SwitchStatement.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/SwitchStatement/obj/Debug/net9.0/SwitchStatement.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/SwitchStatement/obj/Debug/net9.0/SwitchStatement.sourcelink.json
+/home/emma/Desktop/C-Sharp/SwitchStatement/obj/Debug/net9.0/SwitchStatement.dll
+/home/emma/Desktop/C-Sharp/SwitchStatement/obj/Debug/net9.0/refint/SwitchStatement.dll
+/home/emma/Desktop/C-Sharp/SwitchStatement/obj/Debug/net9.0/SwitchStatement.pdb
+/home/emma/Desktop/C-Sharp/SwitchStatement/obj/Debug/net9.0/SwitchStatement.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/SwitchStatement/obj/Debug/net9.0/ref/SwitchStatement.dll
