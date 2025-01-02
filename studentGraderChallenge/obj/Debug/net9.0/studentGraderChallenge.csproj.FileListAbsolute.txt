@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/bin/Debug/net9.0/studentGraderChallenge
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/bin/Debug/net9.0/studentGraderChallenge.deps.json
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/bin/Debug/net9.0/studentGraderChallenge.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/bin/Debug/net9.0/studentGraderChallenge.dll
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/bin/Debug/net9.0/studentGraderChallenge.pdb
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/obj/Debug/net9.0/studentGraderChallenge.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/obj/Debug/net9.0/studentGraderChallenge.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/obj/Debug/net9.0/studentGraderChallenge.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/obj/Debug/net9.0/studentGraderChallenge.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/obj/Debug/net9.0/studentGraderChallenge.sourcelink.json
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/obj/Debug/net9.0/studentGraderChallenge.dll
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/obj/Debug/net9.0/refint/studentGraderChallenge.dll
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/obj/Debug/net9.0/studentGraderChallenge.pdb
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/obj/Debug/net9.0/studentGraderChallenge.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/studentGraderChallenge/obj/Debug/net9.0/ref/studentGraderChallenge.dll
