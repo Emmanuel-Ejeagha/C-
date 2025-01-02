@@ -142,3 +142,4 @@ foreach (string name in studentNames)
 // required for running in VS Code (keeps the Output windows open to view results)
 Console.WriteLine("\n\rPress the Enter key to continue");
 Console.ReadLine();
+
