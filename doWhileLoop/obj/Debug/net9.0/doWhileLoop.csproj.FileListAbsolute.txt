@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/doWhileLoop/bin/Debug/net9.0/doWhileLoop
+/home/emma/Desktop/C-Sharp/doWhileLoop/bin/Debug/net9.0/doWhileLoop.deps.json
+/home/emma/Desktop/C-Sharp/doWhileLoop/bin/Debug/net9.0/doWhileLoop.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/doWhileLoop/bin/Debug/net9.0/doWhileLoop.dll
+/home/emma/Desktop/C-Sharp/doWhileLoop/bin/Debug/net9.0/doWhileLoop.pdb
+/home/emma/Desktop/C-Sharp/doWhileLoop/obj/Debug/net9.0/doWhileLoop.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/doWhileLoop/obj/Debug/net9.0/doWhileLoop.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/doWhileLoop/obj/Debug/net9.0/doWhileLoop.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/doWhileLoop/obj/Debug/net9.0/doWhileLoop.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/doWhileLoop/obj/Debug/net9.0/doWhileLoop.sourcelink.json
+/home/emma/Desktop/C-Sharp/doWhileLoop/obj/Debug/net9.0/doWhileLoop.dll
+/home/emma/Desktop/C-Sharp/doWhileLoop/obj/Debug/net9.0/refint/doWhileLoop.dll
+/home/emma/Desktop/C-Sharp/doWhileLoop/obj/Debug/net9.0/doWhileLoop.pdb
+/home/emma/Desktop/C-Sharp/doWhileLoop/obj/Debug/net9.0/doWhileLoop.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/doWhileLoop/obj/Debug/net9.0/ref/doWhileLoop.dll
