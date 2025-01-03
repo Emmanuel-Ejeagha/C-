@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/ContosoPetApp/obj/Debug/net9.0/ContosoPetApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/ContosoPetApp/obj/Debug/net9.0/ContosoPetApp.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/ContosoPetApp/obj/Debug/net9.0/ContosoPetApp.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/ContosoPetApp/obj/Debug/net9.0/ContosoPetApp.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/ContosoPetApp/obj/Debug/net9.0/ContosoPetApp.sourcelink.json
+/home/emma/Desktop/C-Sharp/ContosoPetApp/bin/Debug/net9.0/ContosoPetApp
+/home/emma/Desktop/C-Sharp/ContosoPetApp/bin/Debug/net9.0/ContosoPetApp.deps.json
+/home/emma/Desktop/C-Sharp/ContosoPetApp/bin/Debug/net9.0/ContosoPetApp.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/ContosoPetApp/bin/Debug/net9.0/ContosoPetApp.dll
+/home/emma/Desktop/C-Sharp/ContosoPetApp/bin/Debug/net9.0/ContosoPetApp.pdb
+/home/emma/Desktop/C-Sharp/ContosoPetApp/obj/Debug/net9.0/ContosoPetApp.dll
+/home/emma/Desktop/C-Sharp/ContosoPetApp/obj/Debug/net9.0/refint/ContosoPetApp.dll
+/home/emma/Desktop/C-Sharp/ContosoPetApp/obj/Debug/net9.0/ContosoPetApp.pdb
+/home/emma/Desktop/C-Sharp/ContosoPetApp/obj/Debug/net9.0/ContosoPetApp.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/ContosoPetApp/obj/Debug/net9.0/ref/ContosoPetApp.dll
