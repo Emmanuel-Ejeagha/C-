@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/dataTypes/bin/Debug/net9.0/dataTypes
+/home/emma/Desktop/C-Sharp/dataTypes/bin/Debug/net9.0/dataTypes.deps.json
+/home/emma/Desktop/C-Sharp/dataTypes/bin/Debug/net9.0/dataTypes.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/dataTypes/bin/Debug/net9.0/dataTypes.dll
+/home/emma/Desktop/C-Sharp/dataTypes/bin/Debug/net9.0/dataTypes.pdb
+/home/emma/Desktop/C-Sharp/dataTypes/obj/Debug/net9.0/dataTypes.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/dataTypes/obj/Debug/net9.0/dataTypes.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/dataTypes/obj/Debug/net9.0/dataTypes.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/dataTypes/obj/Debug/net9.0/dataTypes.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/dataTypes/obj/Debug/net9.0/dataTypes.sourcelink.json
+/home/emma/Desktop/C-Sharp/dataTypes/obj/Debug/net9.0/dataTypes.dll
+/home/emma/Desktop/C-Sharp/dataTypes/obj/Debug/net9.0/refint/dataTypes.dll
+/home/emma/Desktop/C-Sharp/dataTypes/obj/Debug/net9.0/dataTypes.pdb
+/home/emma/Desktop/C-Sharp/dataTypes/obj/Debug/net9.0/dataTypes.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/dataTypes/obj/Debug/net9.0/ref/dataTypes.dll
