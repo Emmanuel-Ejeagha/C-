@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/SortReverseArray/obj/Debug/net9.0/SortReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/SortReverseArray/obj/Debug/net9.0/SortReverseArray.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/SortReverseArray/obj/Debug/net9.0/SortReverseArray.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/SortReverseArray/obj/Debug/net9.0/SortReverseArray.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/SortReverseArray/obj/Debug/net9.0/SortReverseArray.sourcelink.json
+/home/emma/Desktop/C-Sharp/SortReverseArray/bin/Debug/net9.0/SortReverseArray
+/home/emma/Desktop/C-Sharp/SortReverseArray/bin/Debug/net9.0/SortReverseArray.deps.json
+/home/emma/Desktop/C-Sharp/SortReverseArray/bin/Debug/net9.0/SortReverseArray.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/SortReverseArray/bin/Debug/net9.0/SortReverseArray.dll
+/home/emma/Desktop/C-Sharp/SortReverseArray/bin/Debug/net9.0/SortReverseArray.pdb
+/home/emma/Desktop/C-Sharp/SortReverseArray/obj/Debug/net9.0/SortReverseArray.dll
+/home/emma/Desktop/C-Sharp/SortReverseArray/obj/Debug/net9.0/refint/SortReverseArray.dll
+/home/emma/Desktop/C-Sharp/SortReverseArray/obj/Debug/net9.0/SortReverseArray.pdb
+/home/emma/Desktop/C-Sharp/SortReverseArray/obj/Debug/net9.0/SortReverseArray.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/SortReverseArray/obj/Debug/net9.0/ref/SortReverseArray.dll
