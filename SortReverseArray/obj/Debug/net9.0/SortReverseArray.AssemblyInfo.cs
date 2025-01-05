@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SortReverseArray")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a72be18b5d493f8bdd78f5f16be8ff129e6bacf4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+76c05b195989a7b14a7d638943e423680ec58e54")]
 [assembly: System.Reflection.AssemblyProductAttribute("SortReverseArray")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SortReverseArray")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
