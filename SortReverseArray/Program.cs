@@ -116,8 +116,12 @@ Console.WriteLine($"{first} {second}!");
 Console.WriteLine($"{second} {first}!");
 Console.WriteLine($"{first} {first} {first}!");
 
-// FORMATTING CURRENCY
+// FORMATTING CURRENCY (:C)
 decimal price = 198.56986m;
 int discount = 50;
 
 Console.WriteLine($"Price: {price:C} (save {discount:C})");
+
+// FORMATING NUMBERS (:N)
+decimal measurement = 1233244449.4899920m;
+Console.WriteLine($"Measurement: {measurement:N} units");
