@@ -90,5 +90,32 @@ Console.WriteLine(result0);
 int value = (int)1.5m; // casting truncates
 Console.WriteLine(value);
 
-int value2 = Convert.ToInt32(1.5m); // converting rounds up
-Console.WriteLine(value2);
+int value0 = Convert.ToInt32(1.5m); // converting rounds up
+Console.WriteLine(value0);
+
+// TryParse()
+string value3 = "102";
+int result01 = 0;
+if (int.TryParse(value3, out result01))
+{
+    Console.WriteLine($"Mearsurement: {result01}");
+}
+else
+{
+    Console.WriteLine("Unable to convert");
+}
+Console.WriteLine($"Measurement (w/ offset): {50 + result01}");
+
+string value01 = "bad";
+int result02 = 0;
+if (int.TryParse(value01, out result02))
+{
+   Console.WriteLine($"Measurement: {result02}");
+}
+else
+{
+   Console.WriteLine("Unable to report the measurement.");
+}
+
+if (result02 > 0)
+   Console.WriteLine($"Measurement (w/ offset): {50 + result02}");
