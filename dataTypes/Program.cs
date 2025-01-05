@@ -10,11 +10,11 @@ Console.WriteLine($"long   : {long.MinValue} to {long.MaxValue}");
 Console.WriteLine("");
 
 // unsigned
-Console.WriteLine("Unsigned integral types:");
 
 Console.WriteLine($"byte   : {byte.MinValue} to {byte.MaxValue}");
 Console.WriteLine($"ushort : {ushort.MinValue} to {ushort.MaxValue}");
 Console.WriteLine($"uint   : {uint.MinValue} to {uint.MaxValue}");
+Console.WriteLine("Unsigned integral types:");
 Console.WriteLine($"ulong  : {ulong.MinValue} to {ulong.MaxValue}");
 Console.WriteLine("");
 
@@ -143,17 +143,17 @@ Console.WriteLine($"Message: {message0}");
 Console.WriteLine($"Total: {total}");
 
 // convertion challenge
-int value1 = 11;
-decimal value2 = 6.2m;
-float value3 = 4.3f;
+int value001 = 11;
+decimal value002 = 6.2m;
+float value003 = 4.3f;
 
 // The Convert class is best for converting the fractional decimal numbers into whole integer numbers
 // Convert.ToInt32() rounds up the way you would expect.
-int result1 = Convert.ToInt32(value1 / value2);
+int result1 = Convert.ToInt32(value001 / value002);
 Console.WriteLine($"Divide value1 by value2, display the result as an int: {result1}");
 
-decimal result2 = value2 / (decimal)value3;
+decimal result2 = value002 / (decimal)value003;
 Console.WriteLine($"Divide value2 by value3, display the result as a decimal: {result2}");
 
-float result3 = value3 / value1;
+float result3 = value003 / value001;
 Console.WriteLine($"Divide value3 by value1, display the result as a float: {result3}");
