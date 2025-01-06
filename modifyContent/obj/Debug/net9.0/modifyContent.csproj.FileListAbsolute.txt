@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/modifyContent/obj/Debug/net9.0/modifyContent.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/modifyContent/obj/Debug/net9.0/modifyContent.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/modifyContent/obj/Debug/net9.0/modifyContent.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/modifyContent/obj/Debug/net9.0/modifyContent.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/modifyContent/obj/Debug/net9.0/modifyContent.sourcelink.json
+/home/emma/Desktop/C-Sharp/modifyContent/bin/Debug/net9.0/modifyContent
+/home/emma/Desktop/C-Sharp/modifyContent/bin/Debug/net9.0/modifyContent.deps.json
+/home/emma/Desktop/C-Sharp/modifyContent/bin/Debug/net9.0/modifyContent.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/modifyContent/bin/Debug/net9.0/modifyContent.dll
+/home/emma/Desktop/C-Sharp/modifyContent/bin/Debug/net9.0/modifyContent.pdb
+/home/emma/Desktop/C-Sharp/modifyContent/obj/Debug/net9.0/modifyContent.dll
+/home/emma/Desktop/C-Sharp/modifyContent/obj/Debug/net9.0/refint/modifyContent.dll
+/home/emma/Desktop/C-Sharp/modifyContent/obj/Debug/net9.0/modifyContent.pdb
+/home/emma/Desktop/C-Sharp/modifyContent/obj/Debug/net9.0/modifyContent.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/modifyContent/obj/Debug/net9.0/ref/modifyContent.dll
