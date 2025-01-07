@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/IPv4Checker/bin/Debug/net9.0/IPv4Checker
+/home/emma/Desktop/C-Sharp/IPv4Checker/bin/Debug/net9.0/IPv4Checker.deps.json
+/home/emma/Desktop/C-Sharp/IPv4Checker/bin/Debug/net9.0/IPv4Checker.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/IPv4Checker/bin/Debug/net9.0/IPv4Checker.dll
+/home/emma/Desktop/C-Sharp/IPv4Checker/bin/Debug/net9.0/IPv4Checker.pdb
+/home/emma/Desktop/C-Sharp/IPv4Checker/obj/Debug/net9.0/IPv4Checker.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/IPv4Checker/obj/Debug/net9.0/IPv4Checker.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/IPv4Checker/obj/Debug/net9.0/IPv4Checker.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/IPv4Checker/obj/Debug/net9.0/IPv4Checker.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/IPv4Checker/obj/Debug/net9.0/IPv4Checker.sourcelink.json
+/home/emma/Desktop/C-Sharp/IPv4Checker/obj/Debug/net9.0/IPv4Checker.dll
+/home/emma/Desktop/C-Sharp/IPv4Checker/obj/Debug/net9.0/refint/IPv4Checker.dll
+/home/emma/Desktop/C-Sharp/IPv4Checker/obj/Debug/net9.0/IPv4Checker.pdb
+/home/emma/Desktop/C-Sharp/IPv4Checker/obj/Debug/net9.0/IPv4Checker.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/IPv4Checker/obj/Debug/net9.0/ref/IPv4Checker.dll

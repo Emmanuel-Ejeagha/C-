@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "IPv4Checker/1.0.0": {
+        "runtime": {
+          "IPv4Checker.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IPv4Checker/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
