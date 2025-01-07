@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/cSharpMethods/obj/Debug/net9.0/cSharpMethods.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/cSharpMethods/obj/Debug/net9.0/cSharpMethods.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/cSharpMethods/obj/Debug/net9.0/cSharpMethods.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/cSharpMethods/obj/Debug/net9.0/cSharpMethods.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/cSharpMethods/obj/Debug/net9.0/cSharpMethods.sourcelink.json
+/home/emma/Desktop/C-Sharp/cSharpMethods/bin/Debug/net9.0/cSharpMethods
+/home/emma/Desktop/C-Sharp/cSharpMethods/bin/Debug/net9.0/cSharpMethods.deps.json
+/home/emma/Desktop/C-Sharp/cSharpMethods/bin/Debug/net9.0/cSharpMethods.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/cSharpMethods/bin/Debug/net9.0/cSharpMethods.dll
+/home/emma/Desktop/C-Sharp/cSharpMethods/bin/Debug/net9.0/cSharpMethods.pdb
+/home/emma/Desktop/C-Sharp/cSharpMethods/obj/Debug/net9.0/cSharpMethods.dll
+/home/emma/Desktop/C-Sharp/cSharpMethods/obj/Debug/net9.0/refint/cSharpMethods.dll
+/home/emma/Desktop/C-Sharp/cSharpMethods/obj/Debug/net9.0/cSharpMethods.pdb
+/home/emma/Desktop/C-Sharp/cSharpMethods/obj/Debug/net9.0/cSharpMethods.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/cSharpMethods/obj/Debug/net9.0/ref/cSharpMethods.dll
