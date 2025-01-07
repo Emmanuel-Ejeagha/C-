@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/diceMiniGame/obj/Debug/net9.0/diceMiniGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/diceMiniGame/obj/Debug/net9.0/diceMiniGame.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/diceMiniGame/obj/Debug/net9.0/diceMiniGame.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/diceMiniGame/obj/Debug/net9.0/diceMiniGame.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/diceMiniGame/obj/Debug/net9.0/diceMiniGame.sourcelink.json
+/home/emma/Desktop/C-Sharp/diceMiniGame/bin/Debug/net9.0/diceMiniGame
+/home/emma/Desktop/C-Sharp/diceMiniGame/bin/Debug/net9.0/diceMiniGame.deps.json
+/home/emma/Desktop/C-Sharp/diceMiniGame/bin/Debug/net9.0/diceMiniGame.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/diceMiniGame/bin/Debug/net9.0/diceMiniGame.dll
+/home/emma/Desktop/C-Sharp/diceMiniGame/bin/Debug/net9.0/diceMiniGame.pdb
+/home/emma/Desktop/C-Sharp/diceMiniGame/obj/Debug/net9.0/diceMiniGame.dll
+/home/emma/Desktop/C-Sharp/diceMiniGame/obj/Debug/net9.0/refint/diceMiniGame.dll
+/home/emma/Desktop/C-Sharp/diceMiniGame/obj/Debug/net9.0/diceMiniGame.pdb
+/home/emma/Desktop/C-Sharp/diceMiniGame/obj/Debug/net9.0/diceMiniGame.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/diceMiniGame/obj/Debug/net9.0/ref/diceMiniGame.dll
