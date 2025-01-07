@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/MethodParameters/bin/Debug/net9.0/MethodParameters
+/home/emma/Desktop/C-Sharp/MethodParameters/bin/Debug/net9.0/MethodParameters.deps.json
+/home/emma/Desktop/C-Sharp/MethodParameters/bin/Debug/net9.0/MethodParameters.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/MethodParameters/bin/Debug/net9.0/MethodParameters.dll
+/home/emma/Desktop/C-Sharp/MethodParameters/bin/Debug/net9.0/MethodParameters.pdb
+/home/emma/Desktop/C-Sharp/MethodParameters/obj/Debug/net9.0/MethodParameters.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/MethodParameters/obj/Debug/net9.0/MethodParameters.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/MethodParameters/obj/Debug/net9.0/MethodParameters.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/MethodParameters/obj/Debug/net9.0/MethodParameters.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/MethodParameters/obj/Debug/net9.0/MethodParameters.sourcelink.json
+/home/emma/Desktop/C-Sharp/MethodParameters/obj/Debug/net9.0/MethodParameters.dll
+/home/emma/Desktop/C-Sharp/MethodParameters/obj/Debug/net9.0/refint/MethodParameters.dll
+/home/emma/Desktop/C-Sharp/MethodParameters/obj/Debug/net9.0/MethodParameters.pdb
+/home/emma/Desktop/C-Sharp/MethodParameters/obj/Debug/net9.0/MethodParameters.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/MethodParameters/obj/Debug/net9.0/ref/MethodParameters.dll
