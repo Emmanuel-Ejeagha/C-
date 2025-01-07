@@ -222,3 +222,4 @@ Console.WriteLine(comparisonMessage);
 
 comparisonMessage += String.Format("{0:C}", currentProfit).PadRight(20);
 Console.WriteLine(comparisonMessage);
+
