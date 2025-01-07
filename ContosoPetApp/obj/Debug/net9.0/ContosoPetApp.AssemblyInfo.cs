@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContosoPetApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6be051551d3e4d82d6917dc995d452d0d272581c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c3479c9392dce0836659fd8860a725ba59366d39")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContosoPetApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContosoPetApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
