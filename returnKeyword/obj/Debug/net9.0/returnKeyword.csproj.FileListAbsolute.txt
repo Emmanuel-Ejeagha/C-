@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/returnKeyword/obj/Debug/net9.0/returnKeyword.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/returnKeyword/obj/Debug/net9.0/returnKeyword.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/returnKeyword/obj/Debug/net9.0/returnKeyword.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/returnKeyword/obj/Debug/net9.0/returnKeyword.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/returnKeyword/obj/Debug/net9.0/returnKeyword.sourcelink.json
+/home/emma/Desktop/C-Sharp/returnKeyword/bin/Debug/net9.0/returnKeyword
+/home/emma/Desktop/C-Sharp/returnKeyword/bin/Debug/net9.0/returnKeyword.deps.json
+/home/emma/Desktop/C-Sharp/returnKeyword/bin/Debug/net9.0/returnKeyword.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/returnKeyword/bin/Debug/net9.0/returnKeyword.dll
+/home/emma/Desktop/C-Sharp/returnKeyword/bin/Debug/net9.0/returnKeyword.pdb
+/home/emma/Desktop/C-Sharp/returnKeyword/obj/Debug/net9.0/returnKeyword.dll
+/home/emma/Desktop/C-Sharp/returnKeyword/obj/Debug/net9.0/refint/returnKeyword.dll
+/home/emma/Desktop/C-Sharp/returnKeyword/obj/Debug/net9.0/returnKeyword.pdb
+/home/emma/Desktop/C-Sharp/returnKeyword/obj/Debug/net9.0/returnKeyword.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/returnKeyword/obj/Debug/net9.0/ref/returnKeyword.dll
