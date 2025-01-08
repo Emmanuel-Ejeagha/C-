@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/displayEmailAddress/obj/Debug/net9.0/displayEmailAddress.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/displayEmailAddress/obj/Debug/net9.0/displayEmailAddress.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/displayEmailAddress/obj/Debug/net9.0/displayEmailAddress.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/displayEmailAddress/obj/Debug/net9.0/displayEmailAddress.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/displayEmailAddress/obj/Debug/net9.0/displayEmailAddress.sourcelink.json
+/home/emma/Desktop/C-Sharp/displayEmailAddress/bin/Debug/net9.0/displayEmailAddress
+/home/emma/Desktop/C-Sharp/displayEmailAddress/bin/Debug/net9.0/displayEmailAddress.deps.json
+/home/emma/Desktop/C-Sharp/displayEmailAddress/bin/Debug/net9.0/displayEmailAddress.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/displayEmailAddress/bin/Debug/net9.0/displayEmailAddress.dll
+/home/emma/Desktop/C-Sharp/displayEmailAddress/bin/Debug/net9.0/displayEmailAddress.pdb
+/home/emma/Desktop/C-Sharp/displayEmailAddress/obj/Debug/net9.0/displayEmailAddress.dll
+/home/emma/Desktop/C-Sharp/displayEmailAddress/obj/Debug/net9.0/refint/displayEmailAddress.dll
+/home/emma/Desktop/C-Sharp/displayEmailAddress/obj/Debug/net9.0/displayEmailAddress.pdb
+/home/emma/Desktop/C-Sharp/displayEmailAddress/obj/Debug/net9.0/displayEmailAddress.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/displayEmailAddress/obj/Debug/net9.0/ref/displayEmailAddress.dll
