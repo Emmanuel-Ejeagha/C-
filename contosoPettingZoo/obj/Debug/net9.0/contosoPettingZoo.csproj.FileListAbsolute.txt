@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/bin/Debug/net9.0/contosoPettingZoo
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/bin/Debug/net9.0/contosoPettingZoo.deps.json
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/bin/Debug/net9.0/contosoPettingZoo.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/bin/Debug/net9.0/contosoPettingZoo.dll
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/bin/Debug/net9.0/contosoPettingZoo.pdb
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/obj/Debug/net9.0/contosoPettingZoo.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/obj/Debug/net9.0/contosoPettingZoo.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/obj/Debug/net9.0/contosoPettingZoo.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/obj/Debug/net9.0/contosoPettingZoo.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/obj/Debug/net9.0/contosoPettingZoo.sourcelink.json
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/obj/Debug/net9.0/contosoPettingZoo.dll
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/obj/Debug/net9.0/refint/contosoPettingZoo.dll
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/obj/Debug/net9.0/contosoPettingZoo.pdb
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/obj/Debug/net9.0/contosoPettingZoo.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/contosoPettingZoo/obj/Debug/net9.0/ref/contosoPettingZoo.dll
