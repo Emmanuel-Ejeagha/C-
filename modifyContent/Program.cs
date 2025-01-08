@@ -167,3 +167,34 @@ output = "Output: " + output.Remove(divCloseStart, closeDiv.Length);
 
 Console.WriteLine(quantity);
 Console.WriteLine(output);
+
+// Calculate the total purchase price
+double total1 = 0;
+double minimumSpend1 = 30.00;
+
+double[] items1 = {15.97, 3.50, 12.25, 22.99, 10.98};
+double[] discounts1 = {0.30, 0.00, 0.10, 0.20, 0.50};
+
+for (int i = 0; i < items1.Length; i++)
+{
+    total1 += GetDiscountedPrice(i);
+}
+
+total1 -= TotalMeetsMinimum() ? 5.00 : 0.00;
+
+Console.WriteLine($"Total: ${FormatDecimal(total1)}");
+
+double GetDiscountedPrice(int itemIndex)
+{
+    return items1[itemIndex] * (1 - discounts1[itemIndex]);
+}
+
+bool TotalMeetsMinimum()
+{
+    return total1 >= minimumSpend1;
+}
+
+string FormatDecimal(double input)
+{
+    return input.ToString().Substring(0, 5);
+}
