@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/emma/Desktop/C-Sharp/pt-2/pt-2/pt-2.csproj",
+      "projectUniqueName": "/home/emma/Desktop/C-Sharp/pt-2/pt-2.csproj",
       "projectName": "pt-2",
-      "projectPath": "/home/emma/Desktop/C-Sharp/pt-2/pt-2/pt-2.csproj",
+      "projectPath": "/home/emma/Desktop/C-Sharp/pt-2/pt-2.csproj",
       "packagesPath": "/home/emma/.nuget/packages/",
-      "outputPath": "/home/emma/Desktop/C-Sharp/pt-2/pt-2/obj/",
+      "outputPath": "/home/emma/Desktop/C-Sharp/pt-2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/emma/.nuget/NuGet/NuGet.Config"
