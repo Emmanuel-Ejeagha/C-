@@ -1,4 +1,6 @@
-﻿double usd = 23.73;
+﻿
+// USD to VND converter
+double usd = 23.73;
 int vnd = UsdTOVnd(usd);
 
 Console.WriteLine($"${usd} USD = ${vnd} VND");
