@@ -1,10 +1,10 @@
-﻿DisplayEmail converter
+﻿// DisplayEmail converter
 
 string[,] corporate =
 {
     {"Robert", "Bavin"}, {"Simon", "Bright"},
     {"Kim", "Sinclair"}, {"Emmanuel", "Ejeagha"},
-    {"Mary", "Kay"}, {"Mercy", "Kyrian"}
+    {"Mary", "Kay"}, {"Mercy", "Kyrian"},
 };
 
 string[,] external =
