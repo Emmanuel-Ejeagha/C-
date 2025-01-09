@@ -317,4 +317,5 @@ void TotalMeetsMinimum()
 void FormatDecimal(double input)
 {
     // Format the double so only 2 decimal places are displayed
+    
 }
