@@ -20,6 +20,7 @@ public class Calculator
         return num1 + num2;
     }
 
+    #region Add
     public static int Add(List<int> Numbers)
     {
         int Sum = 0;
@@ -29,6 +30,7 @@ public class Calculator
         }
         return Sum;
     }
+    #endregion
 }
 
 
