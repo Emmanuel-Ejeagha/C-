@@ -1,0 +1,15 @@
+/home/emma/Desktop/C-Sharp/obsolete/obj/Debug/net9.0/obsolete.GeneratedMSBuildEditorConfig.editorconfig
+/home/emma/Desktop/C-Sharp/obsolete/obj/Debug/net9.0/obsolete.AssemblyInfoInputs.cache
+/home/emma/Desktop/C-Sharp/obsolete/obj/Debug/net9.0/obsolete.AssemblyInfo.cs
+/home/emma/Desktop/C-Sharp/obsolete/obj/Debug/net9.0/obsolete.csproj.CoreCompileInputs.cache
+/home/emma/Desktop/C-Sharp/obsolete/obj/Debug/net9.0/obsolete.sourcelink.json
+/home/emma/Desktop/C-Sharp/obsolete/bin/Debug/net9.0/obsolete
+/home/emma/Desktop/C-Sharp/obsolete/bin/Debug/net9.0/obsolete.deps.json
+/home/emma/Desktop/C-Sharp/obsolete/bin/Debug/net9.0/obsolete.runtimeconfig.json
+/home/emma/Desktop/C-Sharp/obsolete/bin/Debug/net9.0/obsolete.dll
+/home/emma/Desktop/C-Sharp/obsolete/bin/Debug/net9.0/obsolete.pdb
+/home/emma/Desktop/C-Sharp/obsolete/obj/Debug/net9.0/obsolete.dll
+/home/emma/Desktop/C-Sharp/obsolete/obj/Debug/net9.0/refint/obsolete.dll
+/home/emma/Desktop/C-Sharp/obsolete/obj/Debug/net9.0/obsolete.pdb
+/home/emma/Desktop/C-Sharp/obsolete/obj/Debug/net9.0/obsolete.genruntimeconfig.cache
+/home/emma/Desktop/C-Sharp/obsolete/obj/Debug/net9.0/ref/obsolete.dll
