@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net9.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net9.0": [
+      "Avalonia >= 11.2.1",
+      "Avalonia.Desktop >= 11.2.1",
+      "Avalonia.Diagnostics >= 11.2.1",
+      "Avalonia.Fonts.Inter >= 11.2.1",
+      "Avalonia.Themes.Fluent >= 11.2.1"
+    ]
+  },
+  "packageFolders": {
+    "/home/emma/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/home/emma/Desktop/C-Sharp/Forms/Forms.csproj",
+      "projectName": "Forms",
+      "projectPath": "/home/emma/Desktop/C-Sharp/Forms/Forms.csproj",
+      "packagesPath": "/home/emma/.nuget/packages/",
+      "outputPath": "/home/emma/Desktop/C-Sharp/Forms/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/home/emma/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net9.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net9.0": {
+        "targetAlias": "net9.0",
+        "dependencies": {
+          "Avalonia": {
+            "target": "Package",
+            "version": "[11.2.1, )"
+          },
+          "Avalonia.Desktop": {
+            "target": "Package",
+            "version": "[11.2.1, )"
+          },
+          "Avalonia.Diagnostics": {
+            "target": "Package",
+            "version": "[11.2.1, )"
+          },
+          "Avalonia.Fonts.Inter": {
+            "target": "Package",
+            "version": "[11.2.1, )"
+          },
+          "Avalonia.Themes.Fluent": {
+            "target": "Package",
+            "version": "[11.2.1, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Error",
+      "message": "Failed to download package 'SkiaSharp.NativeAssets.WebAssembly.2.88.8' from 'https://api.nuget.org/v3-flatcontainer/skiasharp.nativeassets.webassembly/2.88.8/skiasharp.nativeassets.webassembly.2.88.8.nupkg'.\nName or service not known (api.nuget.org:443)\n  Name or service not known"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "Failed to retrieve information about 'SkiaSharp.NativeAssets.WebAssembly' from remote source 'https://api.nuget.org/v3-flatcontainer/skiasharp.nativeassets.webassembly/index.json'.\n  Name or service not known (api.nuget.org:443)\n  Name or service not known",
+      "libraryId": "SkiaSharp.NativeAssets.WebAssembly"
+    }
+  ]
+}
